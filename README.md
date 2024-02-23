@@ -30,5 +30,5 @@ This application simplifies the process of analyzing resumes by providing an int
 
 
 
-
+!![Screenshot 2024-02-23 120718](https://github.com/Ayush62022/RAGSystem-Resume-Analysis-and-Generation-System-/assets/140695614/cfb850eb-7ecc-48b8-90f9-91b5295860a4)
 
