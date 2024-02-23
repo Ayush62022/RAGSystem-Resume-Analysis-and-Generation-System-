@@ -1,4 +1,4 @@
-# RAGSystem-Resume-Analysis-and-Generation-System-
+# RAGSystem-Resume-Analysis-and-Generation-System_using(RAG)
 The main goal of this project is to create a system that automatically analyzes resumes to extract important information. This system will help streamline the recruitment process by quickly identifying key details such as contact information, education history, skills, awards, and work experience from resumes submitted in PDF format. Additionally, the system will generate structured responses based on user queries, making it easier for recruiters to access relevant information within the resumes. Ultimately, this project aims to enhance efficiency in the recruitment process by automating the analysis and retrieval of vital information from resumes.
 
 ## RAG(Retrieval-Augmentation-Generation)
